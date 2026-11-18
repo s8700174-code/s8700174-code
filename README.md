@@ -22,6 +22,8 @@ This portfolio brings together executive dashboards, Persian speech tools, deskt
 
 Interested in scoped dashboard and business web-tool projects. A typical discussion starts with the business problem, available data, required screens and acceptance criteria, followed by a milestone-based implementation plan.
 
-**Contact:** [Ponisha / sabaghi_ir](https://ponisha.ir/profile/sabaghi_ir)
+**Services:** [Dashboard prototypes, workflow tools and maintenance](SERVICES.md)
+
+**Contact:** [LinkedIn / Shahram Sabaghi](https://www.linkedin.com/in/shahram-sabaghi-053ab5168/) · [Ponisha / sabaghi_ir](https://ponisha.ir/profile/sabaghi_ir)
 
 Demonstrations and pilot source editions are labeled explicitly. Production integrations, authentication, permissions and infrastructure are assessed for each engagement rather than implied by a visual demo.
