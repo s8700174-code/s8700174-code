@@ -1,4 +1,6 @@
-# Business dashboards & practical web tools
+# Business development & systems consulting
+
+I work as a business development and systems consultant for large companies. This public portfolio presents the technical side of my work: business dashboards and practical software tools.
 
 This portfolio brings together executive dashboards, Persian speech tools, desktop presentation software and learning portals. Each repository documents its scope, setup requirements and validation limits.
 

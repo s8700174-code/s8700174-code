@@ -1,6 +1,6 @@
-# Dashboards and practical business tools
+# Business systems consulting, dashboards and practical tools
 
-I am interested in clearly scoped projects that turn reporting requirements and repetitive workflows into usable software. My public portfolio includes JavaScript dashboard interfaces, Python/FastAPI tools, an Electron desktop application and a WordPress/H5P learning-portal pilot.
+I work as a business development and systems consultant for large companies. I am interested in clearly scoped projects that turn reporting requirements and repetitive workflows into usable software. My public portfolio includes JavaScript dashboard interfaces, Python/FastAPI tools, an Electron desktop application and a WordPress/H5P learning-portal pilot.
 
 [Discuss a project on LinkedIn](https://www.linkedin.com/in/shahram-sabaghi-053ab5168/) · [Explore the portfolio](https://github.com/s8700174-code)
 
@@ -38,6 +38,8 @@ For an application that has passed an agreed handover and acceptance check.
 Hours, response windows, hosting responsibilities and exclusions are agreed before work begins. This is not an unlimited-support or 24/7 availability offer.
 
 ## How a project starts
+
+An initial systems-consulting engagement can define the current workflow, stakeholders, reporting requirements, priorities and acceptance criteria. Its deliverable is an agreed requirements brief and phased implementation plan; revenue growth or other business outcomes are not guaranteed.
 
 Send a short description of the problem, the intended users, sample inputs, expected outputs, preferred deadline and budget. Please use anonymized examples initially.
 
